@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="network-classify-s:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/network_classify_s_jar</output-path>
+    <root id="archive" name="network-classify-s.jar">
+      <element id="module-output" name="network-classify-s" />
+    </root>
+  </artifact>
+</component>
